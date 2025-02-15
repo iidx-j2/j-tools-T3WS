@@ -62,6 +62,7 @@ Changes are saved automatically.<br>
 <br>
 アイコンをクリックして合成印を追加・削除。<br>
 <br>
+「武器修正値」で武器の修正値を選択。「防具修正値」で防具の修正値を選択して表示できます。<br>
 変更は自動保存されます。<br>
 <br><br>
 Stream Overlay / 配信への活用<br>
