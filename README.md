@@ -36,17 +36,16 @@ This is a static web application; simply open the HTML file in your browser.<br>
 静的なウェブアプリケーションのため、HTML を開くだけで動作します。<br>
 <br>
 ## How to Use / 使い方<br>
-Download or Clone / ダウンロードまたはクローン<br>
-Obtain the repository as a ZIP or clone it locally.<br>
-ZIP ファイルをダウンロードするか、リポジトリをクローンしてください。<br>
+Download zip-file / zipファイルのダウンロード<br>
+Obtain the repository as a ZIP.<br>
+ZIP ファイルをダウンロードし、解凍されたindex.htmlとiconフォルダを任意のフォルダにコピーしてください。<br>
 <br>
 Open in Browser / ブラウザで開く<br>
 We recommend Google Chrome for best compatibility.<br>
 If you have HGP創英角ﾎﾟｯﾌﾟ体 installed, open index.html; otherwise, use indexmeiryo.html.<br>
 <br>
 Google Chrome での利用を推奨します。<br>
-HGP創英角ﾎﾟｯﾌﾟ体 がインストールされていれば index.html、<br>
-そうでなければ indexmeiryo.html を開いてください。<br>
+HGP創英角ﾎﾟｯﾌﾟ体 がインストールされている環境を想定しています。
 <br>
 ## Configure & Use / 設定と利用<br>
 <br>
@@ -56,7 +55,7 @@ Manage stamps (合成印) by clicking on the stamp icons.<br>
 <br>
 Changes are saved automatically.<br>
 <br>
-CSV に含まれる武器・防具・指輪を選択。<br>
+武器・防具・指輪を選択。<br>
 <br>
 アイコンをクリックして合成印を追加・削除。<br>
 <br>
