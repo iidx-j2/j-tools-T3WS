@@ -40,7 +40,7 @@ Download zip-file / zipファイルのダウンロード<br>
 Obtain the repository as a ZIP.<br>
 ZIP ファイルをダウンロードし、解凍されたindex.htmlとiconフォルダを任意のフォルダにコピーしてください。<br>
 <br>
-Open in Browser / ブラウザで開く<br>
+Open in Browser / ブラウザでindex.htmlファイルを開きます<br>
 We recommend Google Chrome for best compatibility.<br>
 If you have HGP創英角ﾎﾟｯﾌﾟ体 installed, open index.html; otherwise, use indexmeiryo.html.<br>
 <br>
