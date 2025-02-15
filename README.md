@@ -45,7 +45,7 @@ We recommend Google Chrome for best compatibility.<br>
 If you have HGP創英角ﾎﾟｯﾌﾟ体 installed, open index.html; otherwise, use indexmeiryo.html.<br>
 <br>
 Google Chrome での利用を推奨します。<br>
-HGP創英角ﾎﾟｯﾌﾟ体 がインストールされている環境を想定しています。
+フォント「HGP創英角ﾎﾟｯﾌﾟ体」 がインストールされている環境を想定しています。
 <br>
 ## Configure & Use / 設定と利用<br>
 <br>
