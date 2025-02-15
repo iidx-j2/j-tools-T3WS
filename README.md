@@ -1,7 +1,7 @@
-![Screenshot](./images/screenshot2.png)
+
 ## Overview / 概要
 <br>
-![Screenshot](./images/screenshot2.png)<br>
+![Screenshot](./images/screenshot2.png)
 <br>
 T3WS is a web-based gadget for Toruneko’s Great Adventure 3: Labyrinth of Another World,<br>
 focusing on managing and displaying weapons, shields, and rings with optional stamps (印).<br>
