@@ -1,4 +1,6 @@
 ![Screenshot](./images/screenshot2.png)
+![Screenshot](./images/screenshot3.png)
+![Screenshot](./images/screenshot4.png)
 ## Overview / 概要
 <br>
 T3WS is a web-based gadget for Toruneko’s Great Adventure 3: Labyrinth of Another World,<br>
