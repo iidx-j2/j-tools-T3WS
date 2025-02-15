@@ -5,12 +5,14 @@ T3WS is a web-based gadget for Toruneko’s Great Adventure 3: Labyrinth of Anot
 focusing on managing and displaying weapons, shields, and rings with optional stamps (印).<br>
 It runs locally on your browser and can be used as an overlay in streaming tools like OBS.<br>
 <br>
+Capture this tool’s window or browser source in the corner of your gameplay screen.<br>
+Apply a color key or chroma key to the background to make it transparent.<br>
+<br><br>
 本ツール T3WS は、トルネコの大冒険３【異世界の迷宮】 において、<br>
 武器・防具・指輪の情報を管理・表示するためのウェブベースのガジェットです。<br>
 ローカルのブラウザで動作し、OBS などの配信ツールに重ねて表示できます。<br>
 
-Capture this tool’s window or browser source in the corner of your gameplay screen.<br>
-Apply a color key or chroma key to the background to make it transparent.<br>
+
 ゲーム画面の片隅に本ツールのウィンドウ（またはブラウザソース）を取り込み、<br>
 背景色をカラーキーやクロマキーで透過させることで、配信画面に重ねられます。<br>
 <br>
