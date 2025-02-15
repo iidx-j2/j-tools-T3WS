@@ -14,7 +14,7 @@ Apply a color key or chroma key to the background to make it transparent.<br>
 ゲーム画面の片隅に本ツールのウィンドウ（またはブラウザソース）を取り込み、<br>
 背景色をカラーキーやクロマキーで透過させることで、配信画面に重ねられます。<br>
 <br>
-Features / 特徴<br>
+## Features / 特徴<br>
 Weapon & Armor Display / 武器・防具の表示<br>
 Each item is dynamically loaded from an embedded CSV.<br>
 アイテム情報は埋め込み CSV から動的に読み込まれます。<br>
@@ -35,7 +35,7 @@ No Server Needed / サーバ不要<br>
 This is a static web application; simply open the HTML file in your browser.<br>
 静的なウェブアプリケーションのため、HTML を開くだけで動作します。<br>
 <br>
-How to Use / 使い方<br>
+## How to Use / 使い方<br>
 Download or Clone / ダウンロードまたはクローン<br>
 Obtain the repository as a ZIP or clone it locally.<br>
 ZIP ファイルをダウンロードするか、リポジトリをクローンしてください。<br>
@@ -48,7 +48,7 @@ Google Chrome での利用を推奨します。<br>
 HGP創英角ﾎﾟｯﾌﾟ体 がインストールされていれば index.html、<br>
 そうでなければ indexmeiryo.html を開いてください。<br>
 <br>
-Configure & Use / 設定と利用<br>
+## Configure & Use / 設定と利用<br>
 <br>
 Select weapons, armor, or rings from the embedded CSV.<br>
 <br>
@@ -72,24 +72,27 @@ OBS などでウィンドウまたはブラウザソースとして取り込み�
 <br>
 背景色をキーイングして透過させることで、ゲーム画面上に重ねられます。<br>
 <br>
-Installation / インストール<br>
+## Installation / インストール<br>
 No installation is required. This is a static web app, so open the HTML file in your browser.<br>
 特別なインストールは不要です。静的なウェブアプリケーションのため、<br>
 HTML ファイルをブラウザで開くだけで動作します。<br>
 <br>
-Contributing / コントリビュート<br>
+## Contributing / コントリビュート<br>
 If you have suggestions or improvements, feel free to fork the repository and create a pull request.<br>
 改善案やご提案があれば、リポジトリをフォークしてプルリクエストをお送りください。<br>
 <br>
-License / ライセンス<br>
+## License / ライセンス<br>
 This project is released under the MIT License.<br>
 本プロジェクトは MIT ライセンス の下で公開されています。<br>
 <br>
-Acknowledgments / 謝辞<br>
+## Acknowledgments / 謝辞<br>
 Original Author: じぇいつぅ<br>
 Twitter (X): @iidx_j2<br>
 You are free to use this tool for any purpose, including commercial streaming and ad revenue, without special permission. However, please do not falsely claim that you developed this tool yourself.<br>
-商業利用を含むあらゆる用途で自由にお使いいただけますが、<br>
-あたかもご自身が開発されたかのように虚偽の表現をすることはご遠慮ください。<br>
+本ツールは、配信や広告収入などの商業利用を含むあらゆる用途で、<br>
+特別な許諾なくご利用いただけます。<br>
+もし可能であれば、下記のクレジット表示をしていただけると大変ありがたく存じます。<br>
 <br>
-もし可能であれば、上記のクレジットを表示していただけると幸いです。<br>
+じぇいつぅるず「T3DB」<br>
+X: @iidx_j2<br>
+<br>
