@@ -40,7 +40,8 @@ This is a static web application; simply open the HTML file in your browser.<br>
 ## How to Use / 使い方<br>
 Download zip-file / zipファイルのダウンロード<br>
 Obtain the repository as a ZIP.<br>
-ZIP ファイルをダウンロードし、解凍されたindex.htmlとiconフォルダを任意のフォルダにコピーしてください。<br>
+Releaseタブより、最新のZIPファイルをダウンロードしてください。<br>
+解凍されたindex.htmlとiconフォルダを任意のフォルダにコピーしてください。<br>
 <br>
 Open in Browser / ブラウザでindex.htmlファイルを開きます<br>
 We recommend Google Chrome for best compatibility.<br>
